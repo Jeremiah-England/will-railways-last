@@ -1,0 +1,14 @@
+# Transportation Statistics Annual Report 2021
+https://www.bts.gov/sites/bts.dot.gov/files/2022-01/TSAR_FULL BOOK-12-31-2021.pdf
+
+# Oak Ridge National Laboratory -- Transportation Energy Data Book (40th Edition).
+# https://tedb.ornl.gov/data/
+https://tedb.ornl.gov/wp-content/uploads/2022/03/TEDB_Ed_40.pdf
+https://tedb.ornl.gov/wp-content/uploads/2022/06/TEDB_40_Spreadsheets_06012022.zip
+https://tedb.ornl.gov/wp-content/uploads/2022/06/Updates_06012022.pdf
+
+# See https://www.stb.gov/reports-data/railroad-cost-recovery-factor/
+# And https://www.aar.org/rail-cost-indexes/
+https://www.aar.org/wp-content/uploads/2022/09/Index_RCAFDescription-09.2022.pdf
+
+# vim: ft=conf
