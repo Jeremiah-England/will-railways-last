@@ -20,3 +20,4 @@ like Quora does not want me to or something. Anyway, the two sources he used are
 # General Reading
 
 - Ark invest has some interesting articles: https://duckduckgo.com/?q=site%3Aark-invest.com+electric+trucks
+- Austin Vernon on electric trucks
