@@ -21,3 +21,11 @@ like Quora does not want me to or something. Anyway, the two sources he used are
 
 - Ark invest has some interesting articles: https://duckduckgo.com/?q=site%3Aark-invest.com+electric+trucks
 - Austin Vernon on electric trucks
+
+- To read
+  - https://www.sciencedirect.com/science/article/abs/pii/S1366554512000658
+
+# Players
+
+- Electrification Coalition: https://www.electrificationcoalition.org/
+  - Electric Freight Consortium: https://www.electrificationcoalition.org/industry-leaders-join-together-to-advance-freight-electrification/

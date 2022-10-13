@@ -11,4 +11,7 @@ https://tedb.ornl.gov/wp-content/uploads/2022/06/Updates_06012022.pdf
 # And https://www.aar.org/rail-cost-indexes/
 https://www.aar.org/wp-content/uploads/2022/09/Index_RCAFDescription-09.2022.pdf
 
+# See https://avworkforce.secureenergy.org/
+https://avworkforce.secureenergy.org/wp-content/uploads/2018/06/Americas-Workforce-and-the-Self-Driving-Future_Realizing-Productivity-Gains-and-Spurring-Economic-Growth.pdf
+
 # vim: ft=conf
